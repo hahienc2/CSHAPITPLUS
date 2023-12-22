@@ -61,5 +61,10 @@ namespace ConsoleAppHoc
 
 
         }
+        static void ad()
+        {
+
+        }
     }
+
 }
